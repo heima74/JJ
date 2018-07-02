@@ -102,18 +102,18 @@
 											<!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
 											<div id="board">
 												<h3>공지사항</h3>
-												<table border="1" width="100%"  cellpadding="0" cellspacing="0">	
-													<tr style="color:white;font-size:12pt">			
-														<th  height="70px" width="10%" class="text-center" style="background-color: #01bbf0">번호</th>
-														<th  width="60%" class="text-center" style="background-color: #01bbf0">제목</th>
-														<th  width="15%" class="text-center" style="background-color: #01bbf0">등록일</th>
-														<th  width="155%" class="text-center" style="background-color: #01bbf0">조회수</th>
+												<table border="0" width="100%"  cellpadding="0" cellspacing="0">	
+													<tr style="color:#808080;font-size:12pt">			
+														<th  height="50px" width="10%" class="text-center" style="background-color: #fafafa">번호</th>
+														<th  width="60%" class="text-center" style="background-color: #fafafa">제목</th>
+														<th  width="15%" class="text-center" style="background-color: #fafafa">등록일</th>
+														<th  width="155%" class="text-center" style="background-color: #fafafa">조회수</th>
 													</tr>
 													<tr style="font-size:10pt" height="60px">
-														<td align="center">특별한렌트카</td>
-														<td align="center">4.5</td>
-														<td align="center">13,400원</td>
-														<td align="center">13,000원</td>
+														<td align="center">공지</td>
+														<td align="center">항공결항시 대처방법</td>
+														<td align="center">2016.07.14</td>
+														<td align="center">7,794</td>
 													</tr>
 												</table>
 											</div>
@@ -146,11 +146,11 @@
 								<form method="post" class="colorlib-form">
 				              	<div class="row">
 				                
-				                 <div class="col-md-12">
+				                 <div class="col-md-18">
 				                  <input type="submit" name="submit" id="submit" value="공지사항" class="btn btn-primary btn-block">
 				                </div>
 				                 
-				                <div class="col-md-12">
+				                <div class="col-md-18">
 				                  <input type="submit" name="submit" id="submit" value="여행상담" class="btn btn-primary btn-block">
 				                </div>
 				              </div>
@@ -161,8 +161,6 @@
 				</div>
 			</div>
 		</div>
-
-
 		<footer id="colorlib-footer" role="contentinfo">
 			<div class="container">
 				<div class="row row-pb-md">
