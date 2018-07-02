@@ -73,8 +73,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>어떤 업체를 선택해야 할지 고민하시나요?</h2>
-				   					<h1>제주란티스렌트카를 이용했던 고객들의 후기를 확인하세요.</h1>
+				   					<h2>by colorlib.com</h2>
+				   					<h1>렌트카 검색</h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -84,112 +84,88 @@
 		  	</div>
 		</aside>
 				
-					<div class="col-md-6 col-md-offset-3" align="center">
-						</br></br></br><a href="">·평점순</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="">·최신순</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="">·후기 많은순</a>
-					</div>
-				
+			<!-- 		<div class="col-md-6 col-md-offset-3" style="top:100px;left:400px;">
+						<a href="">·최저가순</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="">·인기순</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="">·평점순</a>
+					</div> -->
 		<div class="colorlib-wrap">
 			<div class="container">
+				<div class="row">
 					<div class="col-md-9">
-						<div class="row" style="margin-right: -400px; margin-left: -80px">
-							<div class="wrap-division">			
-								<div class="col-md-6 col-sm-6 animate-box">
+						<div class="row">
+							<div class="wrap-division">
+								<div class="row">
+								<div class="">
 									<div class="hotel-entry">
 										<div class="desc">
-											<table border="1" width="100%">
-												<tr>
-													<td colspan="2" height="50px">업체명</td>
-												</tr>
-												<!-- <뿌려주기 start> -->
-												<tr>
-													<td rowspan="4" width=33%>	
-															<img src="resources/images/car1.jpg" width=100%, height=50%>		
-													</td>
-													<td>최*윤</td>
-												</tr>
-												<tr>
-													<td><p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p></td>
-												</tr>
-												<tr>
-													<td>다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음</td>
-												</tr>
-												<tr>
-													<td><span class="place">아반떼AD(휘) 일반자차  2018.06.25 ~ 2018.06.29</span></td>
-												</tr>
-												<!-- <뿌려주기EnD> -->
-												<!-- <뿌려주기 start> -->
-												<tr>
-													<td rowspan="4" width=33%>	
-															<img src="resources/images/car1.jpg" width=100%, height=50%>		
-													</td>
-													<td>최*윤</td>
-												</tr>
-												<tr>
-													<td><p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p></td>
-												</tr>
-												<tr>
-													<td>다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음</td>
-												</tr>
-												<tr>
-													<td><span class="place">아반떼AD(휘) 일반자차  2018.06.25 ~ 2018.06.29</span></td>
-												</tr>
-												<!-- <뿌려주기EnD> -->
-											</table>
+											<!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
+											<div id="board">
+												<h3>공지사항</h3>
+												<table border="1" width="100%"  cellpadding="0" cellspacing="0">	
+													<tr style="color:white;font-size:12pt">			
+														<th  height="70px" width="10%" class="text-center" style="background-color: #01bbf0">번호</th>
+														<th  width="60%" class="text-center" style="background-color: #01bbf0">제목</th>
+														<th  width="15%" class="text-center" style="background-color: #01bbf0">등록일</th>
+														<th  width="155%" class="text-center" style="background-color: #01bbf0">조회수</th>
+													</tr>
+													<tr style="font-size:10pt" height="60px">
+														<td align="center">특별한렌트카</td>
+														<td align="center">4.5</td>
+														<td align="center">13,400원</td>
+														<td align="center">13,000원</td>
+													</tr>
+												</table>
+											</div>
 										</div>
 									</div>
-								</div>	
-								<div class="col-md-6 col-sm-6 animate-box">
-									<div class="hotel-entry">
-										<div class="desc">
-											<table border="1" width="100%">
-												<tr>
-													<td colspan="2" height="50px">업체명</td>
-												</tr>
-												<!-- <뿌려주기 start> -->
-												<tr>
-													<td rowspan="4" width=33%>	
-															<img src="resources/images/car1.jpg" width=100%, height=50%>		
-													</td>
-													<td>최*윤</td>
-												</tr>
-												<tr>
-													<td><p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p></td>
-												</tr>
-												<tr>
-													<td>다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음</td>
-												</tr>
-												<tr>
-													<td><span class="place">아반떼AD(휘) 일반자차  2018.06.25 ~ 2018.06.29</span></td>
-												</tr>
-												<!-- <뿌려주기EnD> -->
-												<!-- <뿌려주기 start> -->
-												<tr>
-													<td rowspan="4" width=33%>	
-															<img src="resources/images/car1.jpg" width=100%, height=50%>		
-													</td>
-													<td>최*윤</td>
-												</tr>
-												<tr>
-													<td><p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p></td>
-												</tr>
-												<tr>
-													<td>다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음다양한 비교후 선택할수 있었고, 설명 잘해줌, 렌트카는 보험이 제한되기에 운전조심했음, 제주여행중 잘활용함, 전기차는 처음 사용했는데 풀옵션에 충전무료 좋았음</td>
-												</tr>
-												<tr>
-													<td><span class="place">아반떼AD(휘) 일반자차  2018.06.25 ~ 2018.06.29</span></td>
-												</tr>
-												<!-- <뿌려주기EnD> -->
-											</table>
-										</div>
-									</div>
-								</div>											
+								</div>
+							</div>
+							
 							</div>
 						</div>
-						
-						
+						<div class="row">
+							<div class="col-md-12 text-center">
+								<ul class="pagination">
+									<li class="disabled"><a href="#">&laquo;</a></li>
+									<li class="active"><a href="#">1</a></li>
+									<li><a href="#">2</a></li>
+									<li><a href="#">3</a></li>
+									<li><a href="#">4</a></li>
+									<li><a href="#">&raquo;</a></li>
+								</ul>
+							</div>
+						</div>
 					</div>
+
+					<!-- SIDEBAR-->
+					<div class="col-md-3">
+						<div class="sidebar-wrap">
+							<div class="side search-wrap animate-box">
+								<h3 class="sidebar-heading">고객센터</h3>
+								<form method="post" class="colorlib-form">
+				              	<div class="row">
+				                
+				                 <div class="col-md-12">
+				                  <input type="submit" name="submit" id="submit" value="공지사항" class="btn btn-primary btn-block">
+				                </div>
+				                 
+				                <div class="col-md-12">
+				                  <input type="submit" name="submit" id="submit" value="여행상담" class="btn btn-primary btn-block">
+				                </div>
+				              </div>
+				            </form>
+							</div>
+						
+							
+							
+							
+							
+							
+							
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 

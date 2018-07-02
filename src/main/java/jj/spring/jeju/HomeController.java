@@ -55,4 +55,8 @@ public class HomeController {
 	public String board() {
 		return "board";
 	}
+	@RequestMapping(value="service.do",method=RequestMethod.GET)
+	public String service() {
+		return "service";
+	}
 }
